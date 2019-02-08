@@ -1,6 +1,6 @@
 {
   "name": "@daonomic/lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Common contracts for different Daonomic projects",
   "main": "truffle.js",
   "directories": {
